@@ -1,0 +1,5 @@
+{
+  "name": "Copy of LeNet-5 Interactive Lab",
+  "description": "An interactive educational tool to visualize and understand the LeNet-5 CNN architecture, focusing on convolution, pooling, and linear layers.",
+  "requestFramePermissions": []
+}
